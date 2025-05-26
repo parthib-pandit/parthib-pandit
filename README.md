@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parthib-pandit
-- 👀 I’m interested in Web Development and Music
-- 🌱 I’m currently learning Javascript and it's frameworks
+- 👀 I’m interested in Web Development and music
+- 🌱 I’m currently working on various CRM systems like vTiger, and working on PHP frameworks.
 - 💞️ I’m looking to collaborate on All projects Web based
 - 📫 How to reach me: https://www.linkedin.com/in/parthib-pandit/
 
